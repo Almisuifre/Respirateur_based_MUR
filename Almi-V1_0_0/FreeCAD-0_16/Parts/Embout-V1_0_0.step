@@ -2,8 +2,8 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
-'E:/Github/Respirateur_based_MUR/Almi_V1.0.0/FreeCAD_0.16/Parts/Embout_
-V1.0.0.step','2020-03-28T10:58:05',('Almisuifre'),(''),
+'E:/Github/Respirateur_based_MUR/Almi-V1_0_0/FreeCAD-0_
+16/Parts/Embout-V1_0_0.step','2020-04-01T11:59:59',('Almisuifre'),(''),
   'Open CASCADE STEP processor 6.8','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2 { 1 2 10303 214 -1 1 5 4 }'));
 ENDSEC;
@@ -16,7 +16,7 @@ DATA;
 #4 = PRODUCT_DEFINITION_SHAPE('','',#5);
 #5 = PRODUCT_DEFINITION('design','',#6,#9);
 #6 = PRODUCT_DEFINITION_FORMATION('','',#7);
-#7 = PRODUCT('Embout_V1.0.0','Embout_V1.0.0','',(#8));
+#7 = PRODUCT('Embout-V1_0_0','Embout-V1_0_0','',(#8));
 #8 = MECHANICAL_CONTEXT('',#2,'mechanical');
 #9 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
 #10 = ADVANCED_BREP_SHAPE_REPRESENTATION('',(#11,#15),#2056);
